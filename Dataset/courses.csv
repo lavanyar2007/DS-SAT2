@@ -1,0 +1,9 @@
+course_code,course_type,credits,faculty
+CS301,Core,4,Faculty A
+CS302,Core,3,Faculty B
+IT303,Core,4,Faculty C
+EC304,Core,3,Faculty D
+MA305,Foundation,4,Faculty E
+CS306,Practical,2,Faculty A
+IT307,Elective,3,Faculty F
+EE308,Core,3,Faculty G
